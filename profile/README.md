@@ -18,17 +18,27 @@
 |**천다은**|`BSP Developer`|[tmddusCha](https://github.com/tmddusCha)|
 |**한영찬**|`Application Developer`|[hanmango-o](https://github.com/hanmango-o)|
 ## Links
+#### [SafeLight Repository](https://github.com/WclLab/SafeLight)
+SafeLight Project 
+#### 
+
+---
 
 </details>
 
 <details><summary>Team 2</summary>
 
-## Team 2
-### About
+# Team 2
+## About
 
-### Members
-##### 임유향
-##### 박서영
-### Links
+
+## Members
+
+|name|role|github|
+|----|------|-----|
+|**임유향**|`BSP Developer`|[Youhyang](https://github.com/Youhyang)|
+|**박서영**|`BSP Developer`|[lisa020519](https://github.com/lisa020519)|
+## Links
+
 
 </details>
