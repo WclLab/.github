@@ -16,7 +16,7 @@
 |----|------|-----|-----|
 |**차승연**|`팀장`  `BSP Developer`|[cde-1234](https://github.com/cde-1234)|**ckatd9146@naver.com**|
 |**천다은**|`BSP Developer`|[tmddusCha](https://github.com/tmddusCha)|
-|**한영찬**|`Application Developer`|[hanmango-o](https://github.com/hanmango-o)|
+|**한영찬**|`Application Developer`|[hanmango-o](https://github.com/hanmango-o)|hanmango.o@gmail.com|
 ## Links
 ### [SafeLight Repository](https://github.com/WclLab/SafeLight)
 ### [UI/UX Figma](https://www.figma.com/file/6sNevVocO9DDmrjzkIFQTW/SafeLight?node-id=0%3A1)
