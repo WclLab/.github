@@ -12,9 +12,9 @@
 
 ## Members
 
-|name|role|github|
-|----|------|-----|
-|**차승연**|`팀장`  `BSP Developer`|[cde-1234](https://github.com/cde-1234)|
+|name|role|github|email|
+|----|------|-----|-----|
+|**차승연**|`팀장`  `BSP Developer`|[cde-1234](https://github.com/cde-1234)|**ckatd9146@naver.com**|
 |**천다은**|`BSP Developer`|[tmddusCha](https://github.com/tmddusCha)|
 |**한영찬**|`Application Developer`|[hanmango-o](https://github.com/hanmango-o)|
 ## Links
