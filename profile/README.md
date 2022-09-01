@@ -3,6 +3,9 @@
 
 
 ## 팀 구성
+WclLab은 2개의 팀이 있습니다. [자세히보기](https://github.com/orgs/WclLab/teams)
+###### *각 팀의 자세한 설명 및 진행상황은 아래의 토글버튼을 눌러 확인할 수 있습니다.*
+
 
 <details><summary>Team 1</summary>
 
@@ -43,3 +46,12 @@
 
 
 </details>
+
+## Directory
+```
+wcl
+ |_ profile
+        |_ README.md
+ |_ assets
+        |_ SafeLight
+```
