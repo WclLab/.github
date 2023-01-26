@@ -24,7 +24,7 @@ WclLab은 2개의 팀이 있습니다. [자세히보기](https://github.com/orgs
 ### [SafeLight Repository](https://github.com/WclLab/SafeLight)
 ### [UI/UX Figma](https://www.figma.com/file/6sNevVocO9DDmrjzkIFQTW/SafeLight?node-id=0%3A1)
 ### [일정 및 프로젝트 관리](https://github.com/orgs/WclLab/projects/2)
-### [구글 드라이브] (https://drive.google.com/drive/folders/129xTpXt1-EKttseUMbPFHT52BSzurAvr?usp=sharing)
+### [구글 드라이브](https://drive.google.com/drive/folders/129xTpXt1-EKttseUMbPFHT52BSzurAvr?usp=sharing)
 
 #### 
 
